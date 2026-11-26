@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "sample-1 (01).txt",
+    "ContentsUnchanged": true,
+    "SHA256": "6828F4910418EB3EC122E954875008F486430F2E0A540B02410ADD0771ABFD78"
+  },
+  {
+    "Name": "sample-2 (02).txt",
+    "ContentsUnchanged": true,
+    "SHA256": "BBA8F5A7E85A873D82AB27A5BD5C615479E3072CC2B6E2033B2B2786432F4675"
+  },
+  {
+    "Name": "sample-3 (03).txt",
+    "ContentsUnchanged": true,
+    "SHA256": "3B820656B6530EA2A916709826B8D25C1DA1D79D4A3FBB2F5DECDFEB92111A46"
+  }
+]

@@ -1,0 +1,7 @@
+1/5 BACKUP existing launch entries
+2/5 UPDATE generated program copy
+3/5 UPDATE existing shortcuts and existing login startup
+4/5 VERIFY executable, shortcuts and startup readback
+5/5 START updated program
+PASS: shortcuts=1; startup updated=True; SHA256=DECF6BF5DC1F524DBED3D9A9F79EB03FE0ABF407E1A43BDF0CC2C722CB23F4D1
+BACKUP: C:\Users\112\Documents\Codex\2026-11-09\rea-automated-analysis-c-users-112\outputs\Qingqi-1.1\previous-entrypoints-20261109-162345

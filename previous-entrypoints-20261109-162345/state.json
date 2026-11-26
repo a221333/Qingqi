@@ -1,0 +1,13 @@
+﻿{
+    "NewExecutable":  "C:\\Users\\112\\Documents\\Codex\\2026-11-09\\rea-automated-analysis-c-users-112\\outputs\\Qingqi-1.1\\Qingqi.exe",
+    "PreviousStartup":  "\"C:\\Users\\112\\AppData\\Local\\Programs\\Qingqi\\Qingqi.exe\" --background",
+    "StartupChanged":  true,
+    "Links":  [
+                  {
+                      "Path":  "C:\\Users\\112\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Qingqi.lnk",
+                      "Backup":  "C:\\Users\\112\\Documents\\Codex\\2026-11-09\\rea-automated-analysis-c-users-112\\outputs\\Qingqi-1.1\\previous-entrypoints-20261109-162345\\0-Qingqi.lnk",
+                      "OldTarget":  "C:\\Users\\112\\AppData\\Local\\Programs\\Qingqi\\Qingqi.exe"
+                  }
+              ],
+    "Created":  "2026-11-09T16:23:45"
+}
