@@ -1,6 +1,9 @@
 # 轻启 (Qingqi)
 
-**仅 326 KB 的 Windows 原生中文极速启动器，内置 OneCommander 多选中键一键批量重命名增强。**
+**简体中文** | [English](README.en.md)
+
+**仅 326 KB 的 Windows 原生中文极速启动器，内置 OneCommander 多选中键一键批量重命名增强。**  
+*A 326 KB native Windows launcher for Chinese Pinyin search, with non-intrusive middle-click batch rename for OneCommander.*
 
 ![Version](https://img.shields.io/badge/version-1.1.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6)
@@ -31,7 +34,7 @@
 
 ### 1. 运行程序
 
-1. 下载本仓库中的 `Qingqi.exe` 与 `Qingqi.exe.config`（放入同一目录即可便携运行）。
+1. 前往 [Releases](https://github.com/a221333/Qingqi/releases) 下载 `Qingqi-1.1.0-portable.zip` 解压即可使用（或将 `Qingqi.exe` 与 `Qingqi.exe.config` 放入同一目录便携运行）。
 2. 以**普通用户权限**运行 `Qingqi.exe`（请保持轻启与 OneCommander 权限级别一致）。
 3. 程序常驻系统托盘，右键托盘图标可随时开启或关闭 **“OneCommander 多选中键重命名”**，也可管理条目与设置。
 
