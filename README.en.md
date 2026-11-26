@@ -33,7 +33,7 @@ Qingqi is a fast, minimal, and reliable desktop productivity utility for Windows
 
 ### 1. Run Qingqi
 
-1. Download `Qingqi-1.1.0-portable.zip` from [Releases](https://github.com/a221333/Qingqi/releases) (or place `Qingqi.exe` and `Qingqi.exe.config` in the same folder).
+1. Download the latest release archive from [Releases](https://github.com/a221333/Qingqi/releases) and extract it (keep `Qingqi.exe` and `Qingqi.exe.config` in the same folder for portable use).
 2. Run `Qingqi.exe` with **standard user privileges** (match OneCommander's privilege level).
 3. Qingqi stays in the system tray. Right-click the tray icon at any time to toggle **OneCommander middle-click batch rename** or manage entries and settings.
 

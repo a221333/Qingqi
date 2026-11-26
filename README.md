@@ -34,7 +34,7 @@
 
 ### 1. 运行程序
 
-1. 前往 [Releases](https://github.com/a221333/Qingqi/releases) 下载 `Qingqi-1.1.0-portable.zip` 解压即可使用（或将 `Qingqi.exe` 与 `Qingqi.exe.config` 放入同一目录便携运行）。
+1. 前往 [Releases](https://github.com/a221333/Qingqi/releases) 下载最新版本压缩包并解压（确保 `Qingqi.exe` 与 `Qingqi.exe.config` 位于同一目录即可便携运行）。
 2. 以**普通用户权限**运行 `Qingqi.exe`（请保持轻启与 OneCommander 权限级别一致）。
 3. 程序常驻系统托盘，右键托盘图标可随时开启或关闭 **“OneCommander 多选中键重命名”**，也可管理条目与设置。
 
